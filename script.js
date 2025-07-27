@@ -7,4 +7,5 @@ function value(n) {
         return 'Fizz';
     } else {
         return n; 
+	}
 }
